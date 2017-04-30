@@ -1,0 +1,5 @@
+**/Debug/*
+MSP430_Blink_LED/Debug/MSP430_Blink_LED.out
+MSP430_Blink_LED/Debug/MSP430_Blink_LED_linkInfo.xml
+MSP430_Blink_LED/Debug/blink.obj
+MSP430_Blink_LED/Debug/subdir_rules.mk
